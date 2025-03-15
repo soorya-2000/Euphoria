@@ -251,11 +251,12 @@ header .icons .details #hover ul.detail li a:hover {
 }
 
 div.form button {
-  padding: 15px 20px;
+  padding: 12px  20px;
+  padding-right: 0;
   border: -1.5px solid #9b9b9b;
   background-color: #f6f6f6;
   border-radius: 7px;
-  width: 100%;
+  width: 300px;
 }
 
 div.form button span {
@@ -263,12 +264,12 @@ div.form button span {
 }
 
 div.form button span img {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 div.form button span input {
-  font-weight: 700;
-  font-size: 17px;
+  font-weight: 400;
+  font-size: 16px;
   padding-top: 5px;
 }
 
@@ -281,7 +282,7 @@ header span a {
 }
 
 header span a img {
-  padding: 20px 20px;
+  padding: 14px;
   background-color: #f6f6f6;
   border-radius: 8px;
   width: 20px;
@@ -639,14 +640,14 @@ header span a img {
 }
 
 #mens_category div ul li span h3 {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 700;
   color: #2a2f2f;
 }
 
 #mens_category div ul li span a {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 13.41px;
   color: #7f7f7f;
 }
 
@@ -669,7 +670,7 @@ header span a img {
 #women_category span h6 {}
 
 #women_category ul {
-  margin-top: 100px;
+  margin-top: 70px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -696,7 +697,7 @@ header span a img {
 }
 
 #women_category ul li span h3 {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 700;
   color: #2a2f2f;
 }
@@ -711,7 +712,7 @@ header span a img {
 
 #women_category ul li a.explore {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 13.41px;
   font-weight: 500;
   color: #7f7f7f;
 }
@@ -767,7 +768,7 @@ header span a img {
 
 #brand .logo {
   padding-left: 10%;
-  padding-top: 3%;
+  padding-top: 5%;
   padding-right: 8%;
 }
 
@@ -859,7 +860,7 @@ header span a img {
   color: #3c4242;
   padding: 10px 20px;
   border-radius: 5px;
-  background: #ddd9d9;
+  background:#f6f6f6;;
 }
 
 #limlight .fasion ul li a.right {
@@ -926,7 +927,7 @@ header span a img {
 
 footer {
   width: 100%;
-  margin-top: 3%;
+  margin-top: 80px;
   background-color: #3c4242;
 }
 
