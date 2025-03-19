@@ -667,7 +667,9 @@ header span a img {
 
 #women_category .title img {}
 
-#women_category span h6 {}
+#women_category span h6 {
+  font-size:34px;
+}
 
 #women_category ul {
   margin-top: 70px;
